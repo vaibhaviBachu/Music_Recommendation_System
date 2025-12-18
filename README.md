@@ -1,3 +1,4 @@
+<!-- Failed to upload "Emotion Music Recommendation - Personal - Microsoft​ Edge 2025-12-18 12-37-03.mp4" -->
 # Emotion-Music-Recommendation
 Recommending music based on your facial expressions using FER 2013 dataset and Sporify api
 
