@@ -1,6 +1,6 @@
 https://github.com/user-attachments/assets/6f9a6d3c-d1fd-4e1a-bc92-ad5cbb76a143
 # Emotion-Music-Recommendation
-Recommending music based on your facial expressions using FER 2013 dataset and Sporify api
+Recommending music based on your facial expressions using FER 2013 dataset and Spotify api
 
 
 (Forgive the image quality and my expressions 😆)
